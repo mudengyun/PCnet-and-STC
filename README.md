@@ -9,4 +9,3 @@ Time-frame images are first fed into PCNet to iteratively reduce noise level. Th
 <img src="https://github.com/weikechang/PCnet-and-STC/blob/main/Results/Denoising_Visualization.png" width="551" height="309" alt="抖音小程序"/><br/>
 ## Denoising and Classification Results ##
 ![ezcv logo](https://github.com/weikechang/PCnet-and-STC/blob/main/Results/Classification.png)
-![ezcv logo](https://github.com/weikechang/PCnet-and-STC/blob/main/Results/Classification.png)
